@@ -1,0 +1,11 @@
+C:\2\C_sharp_test\CalcArea\bin\Debug\net5.0\CalcArea.deps.json
+C:\2\C_sharp_test\CalcArea\bin\Debug\net5.0\CalcArea.dll
+C:\2\C_sharp_test\CalcArea\bin\Debug\net5.0\ref\CalcArea.dll
+C:\2\C_sharp_test\CalcArea\bin\Debug\net5.0\CalcArea.pdb
+C:\2\C_sharp_test\CalcArea\obj\Debug\net5.0\CalcArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\2\C_sharp_test\CalcArea\obj\Debug\net5.0\CalcArea.AssemblyInfoInputs.cache
+C:\2\C_sharp_test\CalcArea\obj\Debug\net5.0\CalcArea.AssemblyInfo.cs
+C:\2\C_sharp_test\CalcArea\obj\Debug\net5.0\CalcArea.csproj.CoreCompileInputs.cache
+C:\2\C_sharp_test\CalcArea\obj\Debug\net5.0\CalcArea.dll
+C:\2\C_sharp_test\CalcArea\obj\Debug\net5.0\ref\CalcArea.dll
+C:\2\C_sharp_test\CalcArea\obj\Debug\net5.0\CalcArea.pdb
